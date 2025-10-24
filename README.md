@@ -7,7 +7,7 @@ A simple and interactive To-Do List app to help you stay organized and productiv
 ---
 
 ## 🌐 Live Demo  
-🔗 [✨ Try It Now](https://your-username.github.io/todo-list/)  
+🔗 [✨ Try It Now](https://tushar-313.github.io/to-do-list/)  
 
 ---
 
